@@ -1,0 +1,1 @@
+{"title":"Kiwi is good","author":"Jonathan Ive","date":"2018-04-14T00:00:00.000Z","tags":["food","fashion"],"body":"\n\n# Kiwi is good\n\nKiwi is good for human.\n\n![サンプル](./images/kiwi/sample.jpg)\n","id":"kiwi","html":"<h1>Kiwi is good</h1>\n<p>Kiwi is good for human.</p>\n<p><img src=\"/models/blogs/images/kiwi/sample.jpg\" alt=\"サンプル\"></p>\n"}
